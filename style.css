@@ -1,0 +1,31 @@
+@font-face {
+    font-weight: 500;
+    font-family: 'GT Walsheim Pro';
+    src: url(./fonts/GTWalsheimPro-Medium.ttf)
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: 'GT Walsheim Pro';
+    src: url(./fonts/GTWalsheimPro-Bold.ttf);
+}
+
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+* {
+    font-family: 'GT Walsheim Pro';
+}
+
+.brand-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand {
+    color: #9146FF;
+    font-size: 300px;
+    text-align: center;
+}
