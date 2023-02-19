@@ -6,6 +6,7 @@ export default () => {
         <!-- Metadata -->
         <meta charset="UTF-8" />
         <meta name="theme-color" content="#9146FF" />
+        <meta name="yandex-verification" content="44c30dc71f691b15" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
     
         <meta name="title" content="wiletki" />
